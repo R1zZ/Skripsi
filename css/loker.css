@@ -1,0 +1,21 @@
+table{
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 11px;
+	width: 760px;
+	border: 0;
+	text-align:center;
+}
+input{
+	font-style: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 11px;
+	height: 20px;
+}
+.hanya{
+	border: 0;
+	padding: 10px;
+	width: 760px;
+	height: auto;
+}
+tr{
+	height: 46px;
+}
